@@ -1,3 +1,6 @@
-[![show abcnull's data with the help of github-readme-stats](https://github-readme-stats.vercel.app/api?username=abcnull&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcnull&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abcnull&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcnull&layout=compact&hide=html,css,javascript" />
+</a>
