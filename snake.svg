@@ -1,0 +1,21 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <script type="application/ecmascript"><![CDATA[
+    let svg = document.currentScript.ownerDocument.documentElement;
+    let snake = [{x: 5, y: 5}];
+    
+    function moveSnake() {
+      // 简单的移动逻辑
+      let head = snake[0];
+      head.x += 1;
+      let rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+      rect.setAttribute("x", head.x * 10);
+      rect.setAttribute("y", head.y * 10);
+      rect.setAttribute("width", "10");
+      rect.setAttribute("height", "10");
+      rect.setAttribute("fill", "green");
+      svg.appendChild(rect);
+    }
+    
+    setInterval(moveSnake, 200);
+  ]]></script>
+</svg>
