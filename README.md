@@ -6,8 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=💻%20a%20coder;Ray%20S;abcnull&center=true&size=27">
   </a>
 </h1>
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/abcnull/abcnull@output/github-contribution-grid-snake.svg" /></div>
 
 <a href="https://github.com/abcnull/godot-mini-games-demo">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=abcnull&theme=merko&show_icons=true&rank_icon=percentile&locale=cn" />
