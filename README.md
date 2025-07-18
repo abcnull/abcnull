@@ -2,12 +2,12 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://adunm.top/">
+  <a href="https://www.ray-shi.site/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=💻%20a%20coder;Ray%20S;abcnull&center=true&size=27">
   </a>
 </h1>
 
-<a href="https://github.com/abcnull/godot-mini-games-demo">
+<a href="https://www.ray-shi.site/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=abcnull&theme=merko&show_icons=true&rank_icon=percentile&locale=cn" />
 </a>
 <a href="https://github.com/abcnull/godot-mini-games-demo">
