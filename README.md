@@ -3,7 +3,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.ray-shi.site/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=realName:%20Ray%20S%20userName:%20abcnull&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=RealName:%20Ray%20S%20And%20UserName:%20abcnull.;💻%20A%20coder%20from%20Beijing%20is%20studying%20now.&center=true&size=15">
   </a>
 </h1>
 
