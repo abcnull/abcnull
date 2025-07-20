@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 展示分看板 -->
-<a href="https://www.ray-shi.site/" target="_blank">
+<a href="https://www.ray-shi.site/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=abcnull&theme=merko&show_icons=true&rank_icon=percentile&locale=cn" />
 </a>
 <!-- 展示语言看板 -->
