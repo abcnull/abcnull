@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.ray-shi.site/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=RealName:%20Ray%20S%20And%20UserName:%20abcnull.;💻%20A%20coder%20from%20Beijing%20is%20studying%20now.&center=true&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Ray%20Shi%20%20;💻%20A%20coder%20is%20still%20learning%20and%20growing.%20%20;&center=true&size=15">
   </a>
 </h1>
 
